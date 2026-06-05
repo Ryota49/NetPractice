@@ -36,6 +36,7 @@ Here are some resources that helped me throughout the project:
 
 * [TCP/IP adressing and subnetting](https://learn.microsoft.com/en-us/troubleshoot/windows-client/networking/tcpip-addressing-and-subnetting)</br>
 * [Understand better with visual and explanation the concept of NetPractice](https://www.youtube.com/watch?v=HQUw0CfQWAM&t=1097s)</br>
+* [IP Calculator](https://jodies.de/ipcalc?host=71.89.136.166&mask1=18&mask2=)</br>
 
 I also saved some images from the videos like below to help me better understand the exercises:
 
